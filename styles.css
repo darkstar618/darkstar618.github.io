@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: darkviolet;
+}
+body {
+    background-image: url('evan.JFIF');
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-attachment: fixed
+    }
+.anime{
+color: thistle;
+padding: 30px auto;
+justify-content: space-between;
+float: left;
+position: relative;
+top: 20vh;
+}
+
+nav{
+display: flex;
+justify-content: space-between;
+padding: 30px;
+background-color: transparent;
+border: 1px solid thistle;
+
+}
+
+button {
+width: 120px;
+height: 47px;
+color: gainsboro;
+border-radius:  5px;
+border: 1px solid thistle;
+text-align: center;
+background-color: transparent;
+
+}
+
+button:hover{
+color: black;
+background-color: darkcyan;
+}
