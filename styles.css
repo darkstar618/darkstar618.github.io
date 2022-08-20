@@ -3,7 +3,7 @@ h1{
     color: darkviolet;
 }
 body {
-    background-image: url('https://darkstar618.github.io/evan.JFIF');
+    background-image: url('./evan.JFIF');
     background-repeat: no-repeat;  
     background-size: cover;
     background-attachment: fixed
